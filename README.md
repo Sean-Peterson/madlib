@@ -1,13 +1,13 @@
-# _{MadLib}_
+# _MadLib_
 
-#### _{It's just like the MadLibs you grew up with :)}, {01.11.17}_
+#### _It's just like the MadLibs you grew up with, 01.11.17_
 
-#### By _**{Sean Peterson}**_
+#### By _**Sean Peterson**_
 https://github.com/Sean-Peterson
 
 ## Description
 
-_{This is a single MadLib page. The page prompts the user to input terms and then populates a story based on pre-set input and user input. }_
+_This is a single MadLib page. The page prompts the user to input terms and then populates a story based on pre-set input and user input._
 
 ## Setup/Installation Requirements
 
@@ -19,11 +19,11 @@ _{This is a single MadLib page. The page prompts the user to input terms and the
 
 ## Known Bugs
 
-_{No known bugs at this time.}_
+_No known bugs at this time._
 
 ## Support and contact details
 
-_{If you run into any problems then let me know or fix them or feel free to contribute to the code.}_
+_If you run into any problems then let me know or fix them or feel free to contribute to the code._
 
 ## Technologies Used
 
@@ -35,4 +35,4 @@ _jQuery_
 
 ### License
 
-Copyright (c) 2016 **_{Sean Peterson}_**
+Copyright (c) 2016 **_Sean Peterson_**
