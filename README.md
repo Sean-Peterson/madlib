@@ -15,7 +15,7 @@ _This is a single MadLib page. The page prompts the user to input terms and then
 * _Open a simple HTTP server in the top level of the cloned directory. For mac run the following command in your terminal:_
 * _open index.html_
 * _Command for PC:_
-* _start index.html__
+* _start index.html_
 
 ## Known Bugs
 
@@ -23,7 +23,7 @@ _No known bugs at this time._
 
 ## Support and contact details
 
-_If you run into any problems then let me know or fix them or feel free to contribute to the code._
+_If you run into any problems then let me know or feel free to contribute to the code._
 
 ## Technologies Used
 
