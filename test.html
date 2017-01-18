@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script
+      src="https://code.jquery.com/jquery-3.1.1.js"
+      integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+      crossorigin="anonymous"></script>
+    <script src="js/scripts2.js"></script>
+    <title>A fantastical adventure</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Create your own story! Kinda like madlibs.</h1>
+      <form>
+        <div class="form-group">
+          <label for="person1">A name of a friend</label>
+          <input id="person1" class="form-control" type="text">
+        </div>
+
+        <div class="form-group">
+          <label for="verb">A verb</label>
+          <input id="verb" class="form-control" type="text">
+        </div>
+
+        <div class="form-group">
+          <label for="person2">Another name of a friend</label>
+          <input id="person2" class="form-control" type="text">
+        </div>
+
+        <button type="submit" class="btn">Show me my story!</button>
+      </form>
+    <div id="story">
+      <h1>YOUR STORY XD</h1>
+      <p>
+        One day <span class="person1"></span> was walking when <span class="person2"></span> walked by. <span class="person1"></span> looked at <span class="person2"></span> and gave <span class="person2"></span> a big <span class="verb"></span>.
+      </p>
+    </div>
+    </div>
+  </body>
+</html>
